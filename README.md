@@ -1,9 +1,4 @@
 # Student Performance Analytics
-
-**Project Timeline**
-- Originally completed: 2022  
-- Uploaded to GitHub: 2025  
-
 ---
 
 ## Overview
@@ -58,8 +53,8 @@ Dataset: Public Kaggle dataset or synthetic dataset with columns:
 ---
 
 ## Deliverables
-- `student-performance-analytics.ipynb` – Notebook with full code & explanations  
+- `student-performance-analytics.ipynb` – Notebook with full code & explanations / - **Report/Portfolio page** summarizing methodology & results ( End of the Code)
 - **Visualizations**: scatter plots, bar charts, heatmaps  
-- **Report/Portfolio page** summarizing methodology & results  
+
 
 ---
