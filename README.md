@@ -46,10 +46,14 @@ Dataset: Public Kaggle dataset or synthetic dataset with columns:
 ---
 
 ## Results & Insights
-- Strong **positive correlation** between study hours & final exam scores.  
-- **Attendance** was a major factor for better performance.  
-- Hypothesis testing showed that **study habits had a statistically significant impact** on outcomes.  
-- **K-Means clustering** successfully categorized students into clear performance groups.  
+- **Student Performance Analytics** - Exploratory Data Analysis.
+![Student Performance Analytics](eda_analysis.png)
+- **Regression analysis**
+![regression_analysis.png](images/correlation_heatmap.png)
+- **Clustering_analysis**
+![Clustering_analysis](clustering_analysis.png)
+- **Students Performance**
+![Performance Dashboard](performance_dashboard.png)
 
 ---
 
