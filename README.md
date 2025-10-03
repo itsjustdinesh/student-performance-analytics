@@ -57,7 +57,7 @@ Dataset: Public Kaggle dataset or synthetic dataset with columns:
 - **Visualizations**: scatter plots, bar charts, heatmaps (are in above)
 -**Report/Portfolio page** summarizing methodology & results 
 
-ANALYSIS COMPLETE - SUMMARY
+SUMMARY
 ============================================================
 
 ✓ Generated Files:
