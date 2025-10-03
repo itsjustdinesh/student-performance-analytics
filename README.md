@@ -59,15 +59,7 @@ Dataset: Public Kaggle dataset or synthetic dataset with columns:
 
 SUMMARY
 ============================================================
-
-✓ Generated Files:
-   1. cleaned_student_data.csv
-   2. cleaned_student_data.xlsx
-   3. final_student_data_with_clusters.csv
-   4. eda_analysis.png
-   5. regression_analysis.png
-   6. clustering_analysis.png
-   7. performance_dashboard.png
+The Student Performance Analytics project successfully demonstrates that attendance and study hours are the most significant predictors of academic success. Using machine learning clustering, students were effectively segmented into actionable performance categories, enabling targeted interventions. The analysis provides data-driven insights that can improve educational outcomes through early identification of at-risk students.
 
 ✓ Key Findings:
    - Dataset: 500 students analyzed
