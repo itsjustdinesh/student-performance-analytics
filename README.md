@@ -49,7 +49,7 @@ Dataset: Public Kaggle dataset or synthetic dataset with columns:
 - **Student Performance Analytics** - Exploratory Data Analysis.
 ![Student Performance Analytics](eda_analysis.png)
 - **Regression analysis**
-![regression_analysis.png](images/correlation_heatmap.png)
+![regression_analysis.png](regression_analysis.png)
 - **Clustering_analysis**
 ![Clustering_analysis](clustering_analysis.png)
 - **Students Performance**
